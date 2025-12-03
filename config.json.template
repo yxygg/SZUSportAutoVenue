@@ -1,0 +1,47 @@
+{
+  "admin_qq": "",
+  "stuid": "",
+  "password": "",
+  "stuname": "",
+  "cookie": "",
+  "request_delay_ms": 300,
+  "max_duration_minutes": 6,
+  "targets": [
+    {
+      "comment": "粤海羽毛球 19:00-20:00",
+      "CGDM": "008",
+      "XMDM": "002",
+      "XQWID": "1",
+      "KYYSJD": "19:00-20:00",
+      "YYLX": "1.0",
+      "priority": 1
+    },
+    {
+      "comment": "粤海羽毛球 20:00-21:00",
+      "CGDM": "008",
+      "XMDM": "002",
+      "XQWID": "1",
+      "KYYSJD": "20:00-21:00",
+      "YYLX": "1.0",
+      "priority": 1
+    },
+    {
+      "comment": "粤海羽毛球 21:00-22:00",
+      "CGDM": "008",
+      "XMDM": "002",
+      "XQWID": "1",
+      "KYYSJD": "21:00-22:00",
+      "YYLX": "1.0",
+      "priority": 1
+    },
+    {
+      "comment": "运动广场西馆一楼大重量健身房 19:00-20:00",
+      "CGDM": "004",
+      "XMDM": "007",
+      "XQWID": "1",
+      "KYYSJD": "19:00-20:00",
+      "YYLX": "2.0",
+      "priority": 2
+    }
+  ]
+}
