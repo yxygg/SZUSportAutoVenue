@@ -1,7 +1,7 @@
 # 🏸 SzuVenueBooker - 深大场馆自动抢票助手
 
 **SzuVenueBooker** 是一个基于 LangBot 框架的深大体育场馆自动预约插件。它集成了 CAS 统一身份认证自动登录、Session 自动续期、断线重连以及多线程并发抢票功能，专为解决“定场难”问题而生。
-基于https://github.com/Matt-Dong123/tools4szu/tree/main/venue-helper修改
+基于https://github.com/Matt-Dong123/tools4szu/tree/main/venue-helper 修改
 
 ## ✨ 核心功能
 
